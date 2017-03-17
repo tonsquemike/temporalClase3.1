@@ -1,0 +1,5 @@
+-PATH /home/mike/salidaSuma2/
+-PATH_OUT /home/mike/resultadoSuma2/
+IN /home/mike/NetBeansProjects/clase3_generateConfigs/config.txt
+-JAR /home/mike/NetBeansProjects/Suma/01_suma/dist/Suma.jar
+-OUT /home/mike/salidaSuma/
